@@ -1,0 +1,53 @@
+.slider .btn {
+  margin-top: 20px;
+}
+
+.menu-color{
+  color: black !important;
+}
+
+.darken
+{
+  filter: brightness(.6);
+   -webkit-filter: brightness(.6);
+}
+
+.space
+{
+  margin-left: 20px;
+}
+
+.brand-logo{
+  font-size: 1em !important;
+}
+
+.center
+{
+  background-position: center;
+  background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+}
+
+.font-cinzel-custom
+{
+    font-family: 'Cinzel Decorative', cursive !important;
+    font-size: 18px;
+}
+
+.logo2{
+  height: 80%;
+  width: 60%;
+}
+
+#form-google{
+
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    border: 15px solid orange
+}
+
+
+.section-contact h5 {
+  margin-bottom: 30px;
+}
